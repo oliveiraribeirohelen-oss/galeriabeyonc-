@@ -2,6 +2,8 @@ body {
     font-family: Arial;
     text-align: center;
     padding: 20px;
+    background-color: rgb(0, 0, 0);
+    color: white;
 }
 
 .galeria {
@@ -13,7 +15,7 @@ body {
 .card {
     width: 30%; 
     margin: 10px;
-    background: #9cb1fce0;
+    background: #242529ee;
     border-radius: 10px;
     padding: 10px;
 }
